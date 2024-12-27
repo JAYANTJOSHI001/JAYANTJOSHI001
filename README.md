@@ -1,6 +1,6 @@
 # Hi there, I'm Jayant Joshi! 👋
 
-![Animated Welcome](https://example.com/path/to/your/animated-image.gif)
+![Animated Welcome](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
 
 Welcome to my GitHub profile! I'm a passionate developer with experience in various programming languages and technologies. I love solving complex problems and contributing to open-source projects.
 
