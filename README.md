@@ -75,9 +75,7 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayant-joshi" alt="jayant-joshi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jayantjoshi" target="blank"><img src="https://img.shields.io/twitter/follow/jayantjoshi?logo=twitter&style=for-the-badge" alt="jayantjoshi" /></a> </p>
+<p align="left"> <a href="https://x.com/JayantJoshi_" target="blank"><img src="https://img.shields.io/twitter/follow/jayantjoshi?logo=twitter&style=for-the-badge" alt="jayantjoshi" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayant-joshi&show_icons=true&locale=en" alt="jayant-joshi" /></p>
 
